@@ -1,4 +1,4 @@
-# aula1_calculadora_imc
+# IMC CALC
 
 A new Flutter application.
 
